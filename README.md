@@ -1,2 +1,3 @@
 ## Hi there 👋
 ![Leetcode Stats](https://leetcard.jacoblin.cool/organizedNoize?theme=wtf)
+![Leetcode Stats](https://leetcard.jacoblin.cool/organizedNoize?ext=activity)
