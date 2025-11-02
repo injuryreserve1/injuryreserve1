@@ -1,2 +1,2 @@
 ## Hi there 👋
-[![my LeetCode stats](https://leetcode-stats-six.vercel.app/?username=organizedNoize)](https://github.com/KnlnKS/leetcode-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/organizedNoize/)
