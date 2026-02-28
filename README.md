@@ -10,4 +10,5 @@ building a high-performance API with **express/nestJS** or **fastapi**, and wrap
 * **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) .
 * **Infrastructure:** ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white), ![MLflow](https://img.shields.io/badge/MLflow-Tracking-orange?logo=mlflow&logoColor=white), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+my leetcode stat:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/organizedNoize?ext=activity&theme=milonga)
