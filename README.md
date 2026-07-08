@@ -1,4 +1,4 @@
-I am an **ML Engineer** who isn't afraid of the frontend and genuinely loves the backend. 
+I am an **Frontend developer** and **ML Engineer**.
 I specialize in **End-to-End development**: taking an idea from scratch, training a neural network, 
 building a high-performance API with **express/nestJS** or **fastapi**, and wrapping it all into a sleek **React** interface.
 
