@@ -1,4 +1,4 @@
-Hello, i am Ural Valeev. I am an **Frontend developer** and **ML Engineer**.
+Hello, i am Ural Valeev. I am an **Frontend developer** and **Fullstack developer**.
 I specialize in **End-to-End development**: taking an idea from scratch, training a neural network, 
 building a high-performance API with **express/nestJS** or **fastapi**, and wrapping it all into a sleek **React** interface.
 
