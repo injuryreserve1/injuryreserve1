@@ -1,6 +1,4 @@
-Hello, i am Ural Valeev. I am an **Frontend developer** and **Fullstack developer**.
-I specialize in **End-to-End development**: taking an idea from scratch, training a neural network, 
-building a high-performance API with **express/nestJS** or **fastapi**, and wrapping it all into a sleek **React** interface.
+Hello, i am Ural Valeev.
 
 ### 🛠 Tech Stack:
 * **Machine Learning:** ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch), ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)  
